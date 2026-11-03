@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend ",
+  "keywords": [
+    "express.js",
+    "node.js",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Tanmay Kushwaha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
